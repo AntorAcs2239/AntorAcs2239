@@ -1,6 +1,7 @@
+![logo](https://www.analyticsinsight.net/wp-content/uploads/2023/08/10-Facts-About-Coding-and-programming-languages.jpg)
 <h1 align="center">Hi 😊 , I'm Antor Sarker</h1>
 <h3 align="center">I am a Competitive Programmer and Mobile App Developer</h3>
-<img align="right" alt="Coding" width="400" src="align="[https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif](https://giphy.com/gifs/dommespace-domme-space-programador-qgQUggAC3Pfv687qPC/fullscreen)](https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif)">
+<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 - 🌱 I’m currently learning **Flutter,Spring Boot**
 
 - 📫 How to reach me **antorsarkeracs@gmail.com**
