@@ -1,6 +1,6 @@
 <h1 align="center">Hi 😊 , I'm Antor Sarker</h1>
 <h3 align="center">I am a Competitive Programmer and Mobile App Developer</h3>
-
+<img align="right" alt="Coding" width="400" src="align="[https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif](https://giphy.com/gifs/dommespace-domme-space-programador-qgQUggAC3Pfv687qPC/fullscreen)](https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif)">
 - 🌱 I’m currently learning **Flutter,Spring Boot**
 
 - 📫 How to reach me **antorsarkeracs@gmail.com**
